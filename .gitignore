@@ -1,3 +1,6 @@
+Queries/config.py
+Data/ratings.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
